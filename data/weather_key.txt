@@ -1,0 +1,31 @@
+--- T-shirt
+t-shirt -> shorts -> none : 0
+t-shirt -> shorts -> hat : 1
+t-shirt -> shorts -> beanie : 2
+t-shirt -> pants -> none : 3
+t-shirt -> pants -> hat : 4
+t-shirt -> pants -> beanie : 5
+
+--- Long Sleeve
+long sleeve -> shorts -> none : 6
+long sleeve -> shorts -> hat : 7
+long sleeve -> shorts -> beanie : 8
+long sleeve -> pants -> none : 9
+long sleeve -> pants -> hat : 10
+long sleeve -> pants -> beanie : 11
+
+--- Tank Top
+tank top -> shorts -> none : 12
+tank top -> shorts -> hat : 13
+tank top -> shorts -> beanie : 14
+tank top -> pants -> none : 15
+tank top -> pants -> hat : 16
+tank top -> pants -> beanie : 17
+
+--- Hoodie
+hoodie -> shorts -> none : 18
+hoodie -> shorts -> hat : 19
+hoodie -> shorts -> beanie : 20
+hoodie -> pants -> none : 21
+hoodie -> pants -> hat : 22
+hoodie -> pants -> beanie : 23
